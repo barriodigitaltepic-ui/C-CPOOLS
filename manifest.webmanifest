@@ -1,7 +1,7 @@
 {
   "name": "C&C Albercas y Más | Catálogo",
   "short_name": "C&C Albercas",
-  "description": "Servicios, equipos y productos para albercas en Ixtapa, Jalisco.",
+  "description": "Catálogo de muestra para servicios y equipamiento de albercas.",
   "lang": "es-MX",
   "start_url": "./",
   "scope": "./",
